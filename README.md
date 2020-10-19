@@ -1,4 +1,4 @@
-# First-Chatbot :![smartphone](https://user-images.githubusercontent.com/73065802/96467747-e262c080-1248-11eb-9be4-6d7eb168f9b6.jpg)
+# Mobile bot :![smartphone](https://user-images.githubusercontent.com/73065802/96467747-e262c080-1248-11eb-9be4-6d7eb168f9b6.jpg)
 
 
 # Team Members :

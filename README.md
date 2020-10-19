@@ -16,7 +16,7 @@
    I hope you all find it useful.
    Thank you.
 
-# Block Diagram: 
+# Block Diagram: ![Block Diagram](https://user-images.githubusercontent.com/73065802/96475323-82bce300-1251-11eb-9a9b-621fc8b805fb.png)
 
 # Reference Links:
   #       1. https://youtu.be/C6X71gjB9pA
